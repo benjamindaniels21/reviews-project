@@ -29,3 +29,7 @@ const reviews = [
     text: "Edison bulb put a bird on it humblebrag, marfa pok pok heirloom fashion axe cray stumptown venmo actually seitan. VHS farm-to-table schlitz, edison bulb pop-up 3 wolf moon tote bag street art shabby chic. ",
   },
 ];
+
+/* what data do we want to access? 
+We need image, name, job, and the text...use ID to display the current reviewer
+*/
